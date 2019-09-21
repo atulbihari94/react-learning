@@ -1,4 +1,9 @@
 import React from 'react'
+/**
+ *take input from user and print the table of that.
+ * @class PrintTable
+ * @extends {React.Component}
+ */
 class PrintTable extends React.Component {
     constructor(props) {
         super(props);
