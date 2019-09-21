@@ -12,12 +12,17 @@ class Atul extends React.Component {
         };
         // this.handleClick = this.handleClick.bind(this);
       }
+    //   changeName = () =>{
+    //     return this.setState({name: 'Ram'});
+    //   };
     render() {
+        const {name,age,phone}=this.state;
+        const {sex}=this.props;
         return <div>
-            <p>name={this.state.name}</p>
-            <p>age={this.state.age}</p>
+            <p>name={name}</p>
+            <p>age={age}</p>
             <p>mobile={this.state.phone}</p>
-            <p>sex={this.props.sex}</p>
+            <p>sex={sex}</p>
             </div>
     }        
 }
