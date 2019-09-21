@@ -1,68 +1,84 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Workplace Fabric - Lead Full Stack Engineer - Javascript/React.js (6-10 yrs)
 
-## Available Scripts
+#Full Stack #Javascript #ES6 #React.js #Node.js #Express.js #Java #Spring Boot #AWS #REST API #IT Project Delivery
 
-In the project directory, you can run:
+## About Workplace Fabric :
 
-### `npm start`
+- Workplace Fabric develops solutions that make workplaces intelligent. Our solutions help increase the productivity of office workers while helping to lower the cost of real estate. Our Flagship product Freespace is installed in over 40 cities around the world and serves over 30000 people every day.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+- Starting with the first deployment in March 2016 we have rapidly grown with our solution being rolled out globally while continuing to stay cash positive. With successes at several blue-chip clients Workplace Fabric has carved a unique leadership position in workplace management and employee engagement SaaS solutions.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Key Skills and Experience :
 
-### `npm run build`
+- Required Skills :
+ JavaScript (ES6+), React, Nodejs, Express, Java, Spring Boot, JPA, SQL, git
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Good to have : AWS, Jenkins, TypeScript, Scrum, IoT
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+- A front-end expert & a full-stack generalist with 6-10 years of experience
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Ability to understand and design end-to-end scalable IoT systems
 
-### `npm run eject`
+- Hands-on and well-versed with at least one of React (preferred), Angular or Vue
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Master in JavaScript with excellent understanding of asynchronous patterns
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Comfortable with of ES6+, TypeScript & emerging web technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Experience of building REST APIs with Spring Boot & Express
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Able to easily comprehend and write complex & efficient SQL queries
 
-## Learn More
+- Mentoring of team members & participating in code reviews
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Hands-on programmer
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- An excellent communicator
 
-### Code Splitting
+Main Responsibilities :
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- Complete ownership & accountability of end-to-end & timely execution of projects through Scrum while also playing the role of a Scrum Master. To closely work with product owners for clarifying requirements, challenge assumptions & raise concerns in order to minimize disruptions for the team during execution.
 
-### Analyzing the Bundle Size
+- The lead engineer will then work with the team to break the functional requirement (epics) down into technical user stories, document the same in Jira and enable the team to estimate the stories with reasonable accuracy.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- In agreement with the team s/he would provide the product owners the roadmap of major demonstrable features based on the estimates and with appropriate buffers for surprises. These timelines will be used by stake holders to plan releases and communicate with customers.
 
-### Advanced Configuration
+- Lead by example in building high-quality solutions that can scale and be customized per varying but related requirements. Work with team to design, develop, document, review, test and demonstrate weekly sprint commitments to stake holders.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- Facilitate daily stand-ups for the team to discuss daily plans & impediments and help resolve any impediments. Conduct sprint retrospectives for the team to identify ideas that will help increase the team's velocity.
 
-### `npm run build` fails to minify
+- The lead engineer will also periodically engage with stakeholders in Scrum of Scrum discussions to share the team's progress, raise concerns and get feedback. It is imperative for the lead engineer to raise any concerns, at the earliest, that may impact the committed timelines.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+- S/he should use this forum to engage with other lead engineers to get help with team impediments and provide help to them.
+
+Key Behaviors :
+
+- Ability to lead a team with complete ownership of project delivery
+
+- Clear thinker with a systematic problem-solving approach
+
+- Unafraid to own mistakes
+
+- Passion for clean code and scalable design
+
+- Excited to move fast, knowing how to prioritize and make critical decisions
+
+- Bright, motivated and driven, with a thirst for digital knowledge
+
+- Customer focused
+
+- Enthusiastic, analytical, creative, innovative and confident
+
+- Reliable, flexible and cooperative
+
+Location : Kamala Mills, Lower Parel, Mumbai
+
+Reporting to : VP of Engineering Operation or CTO
