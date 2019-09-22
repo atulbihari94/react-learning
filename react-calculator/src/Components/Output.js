@@ -1,13 +1,17 @@
 import React, { Component } from "react";
-
+import Jump from 'react-reveal/Fade';
 export default class KeyPad extends Component {
   constructor(props) {
     super(props);
   }
   render() {
     return (
-      <div className = 'result'>
-        <p>{this.props.result}</p>
+      <div className='result'>
+        <Jump top big cascade>
+          {/* <h1>React Reveal</h1> */}
+          <p>{this.props.result}</p>
+        </Jump>
+
       </div>
     );
   }

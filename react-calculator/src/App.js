@@ -44,7 +44,7 @@ class App extends Component {
   };
   render() {
     return (
-      <div className="App">
+      <div style={{width:'400px',height:'1vr'}}>
         <div className = 'class-body'>
           <Output result={this.state.result} />
           <KeyPad buttonPressed={this.buttonPressed} />
