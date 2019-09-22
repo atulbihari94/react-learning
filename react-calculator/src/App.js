@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
-import KeyPad from "./Components/KeyPad";
+// import KeyPad from "./Components/KeyPad";
+import KeyPad from "./Components/key-pad-functional-comp";
 import Output from "./Components/Output";
 
 class App extends Component {
@@ -13,7 +14,7 @@ class App extends Component {
       this.calculate();
     } else if(buttonName === 'C') {
       this.reset();
-    }else if(buttonName === 'CE') {
+    }else if(buttonName == 'CE') {
       this.backspace();
     }
     else
