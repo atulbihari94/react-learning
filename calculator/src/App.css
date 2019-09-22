@@ -8,8 +8,15 @@
 .calc-wrapper {
   width: 400px;
   height: 600px;
+  margin-top: 742px;
 }
 .row {
   display: flex;
   width: 100%;
+}
+.input{
+  border: 1px solid blue;
+    width: 400px;
+    height: 50px;
+
 }
