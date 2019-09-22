@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Button from "./components/Button";
 import { Input } from "./components/Input";
 import ClearButton from "./components/ClearButton";
-import * as math from 'mathjs';
+import  {evaluate} from 'mathjs';
 import "./App.css";
 
 class App extends Component {
@@ -23,7 +23,7 @@ class App extends Component {
   handleEquals = () => {
     // eslint-disable-next-line no-eval
     console.log('this.state.output', this.state.output)
-    this.setState({ output: eval(this.state.input) });
+    this.setState({ output: evaluate(this.state.input) });
   }
   render() {
     return (
