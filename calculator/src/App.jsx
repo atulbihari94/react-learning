@@ -22,7 +22,7 @@ class App extends Component {
   }
   handleEquals = () => {
     // eslint-disable-next-line no-eval
-    console.log('this.state.output',this.state.output)
+    console.log('this.state.output', this.state.output)
     this.setState({ output: eval(this.state.input) });
   }
   render() {
@@ -31,8 +31,13 @@ class App extends Component {
         <div className="calc-wrapper">
           <Input input={this.state.input}></Input>
           <br />
-          <div style={{ width: '400px', height: '50px', border: '1px solid yellow' }}>
-            =<output>{this.state.output}</output></div>
+          <div className="row">
+            <ClearButton handleClear={() => this.setState({ input: "" })}>
+              Clear
+          </ClearButton>
+            <div style={{ width: '400px', height: '50px', border: '1px solid yellow' }}>
+              =<output style={{fontSize:'24px'}}>{this.state.output}</output></div>
+          </div>
           <div className="row">
             <Button handleClick={this.addToInput}>7</Button>
             <Button handleClick={this.addToInput}>8</Button>
@@ -56,11 +61,6 @@ class App extends Component {
             <Button handleClick={this.addToInput}>0</Button>
             <Button handleClick={this.handleEquals}>=</Button>
             <Button handleClick={this.addToInput}>-</Button>
-          </div>
-          <div className="row">
-            <ClearButton handleClear={() => this.setState({ input: "" })}>
-              Clear
-            </ClearButton>
           </div>
         </div>
       </div>
