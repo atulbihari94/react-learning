@@ -7,10 +7,9 @@ export default class KeyPad extends Component {
   render() {
     return (
       <div className='result'>
-        <Jump top big cascade>
-          {/* <h1>React Reveal</h1> */}
+        <Jump top big cascade> 
           <p>{this.props.result}</p>
-        </Jump>
+        </Jump> 
 
       </div>
     );
